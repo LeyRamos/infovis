@@ -1,1 +1,11 @@
-la lista va aquí
+index chart
+box-and-whisker plots
+Parallel coordinates
+phylogenetic trees
+Reingold-Tilford algorithm
+"sunburst" layout
+"icicle" layout
+Squarified treemaps
+Voronoi
+jigsaw treemaps
+seriation
