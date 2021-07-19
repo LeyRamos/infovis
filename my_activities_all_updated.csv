@@ -1,0 +1,309 @@
+ID,activity_date,start_date,end_date,activity,activity_details,duration_min,source,weekday,weekday_name
+105,3/1/2020 21:44,3/1/2020 21:44,3/1/2020 22:02,Caminata,HIGH ,18,Google Maps,7,Domingo
+106,3/2/2020 14:07,3/2/2020 14:07,3/2/2020 14:25,Caminata,HIGH ,18,Google Maps,1,Lunes
+107,3/5/2020 12:57,3/5/2020 12:57,3/5/2020 13:12,Caminata,HIGH ,15,Google Maps,4,Jueves
+108,3/6/2020 0:14,3/6/2020 0:14,3/6/2020 0:29,Caminata,HIGH ,15,Google Maps,5,Viernes
+109,3/6/2020 23:32,3/6/2020 23:32,3/6/2020 23:50,Caminata,HIGH ,18,Google Maps,5,Viernes
+110,3/9/2020 13:41,3/9/2020 13:41,3/9/2020 13:59,Caminata,HIGH ,18,Google Maps,1,Lunes
+111,3/10/2020 12:59,3/10/2020 12:59,3/10/2020 13:15,Caminata,HIGH ,16,Google Maps,2,Martes
+112,3/13/2020 13:42,3/13/2020 13:42,3/13/2020 14:03,Caminata,HIGH ,21,Google Maps,5,Viernes
+113,3/13/2020 23:17,3/13/2020 23:17,3/13/2020 23:36,Caminata,HIGH ,19,Google Maps,5,Viernes
+259,4/5/2020 13:51,,,Yoga,MalovaElena,47,YouTube,7,Domingo
+260,4/5/2020 13:59,,,Yoga,MalovaElena,47,YouTube,7,Domingo
+261,4/24/2020 19:14,,,Yoga,MalovaElena,40,YouTube,5,Viernes
+262,4/24/2020 19:18,,,Yoga,MalovaElena,43,YouTube,5,Viernes
+263,4/28/2020 18:18,,,Yoga,MalovaElena,33,YouTube,2,Martes
+264,5/3/2020 14:52,,,Yoga,MalovaElena,32,YouTube,7,Domingo
+265,5/3/2020 14:52,,,Yoga,MalovaElena,49,YouTube,7,Domingo
+266,5/3/2020 15:00,,,Yoga,MalovaElena,47,YouTube,7,Domingo
+267,5/8/2020 18:46,,,Yoga,MalovaElena,36,YouTube,5,Viernes
+268,5/8/2020 18:49,,,Yoga,MalovaElena,32,YouTube,5,Viernes
+269,5/8/2020 18:50,,,Yoga,MalovaElena,35,YouTube,5,Viernes
+114,5/9/2020 22:02,5/9/2020 22:02,5/9/2020 22:18,Caminata,HIGH ,16,Google Maps,6,Sábado
+115,5/9/2020 22:26,5/9/2020 22:26,5/9/2020 22:57,Caminata,HIGH ,31,Google Maps,6,Sábado
+116,5/9/2020 23:07,5/9/2020 23:07,5/9/2020 23:22,Caminata,HIGH CONFIRMED,15,Google Maps,6,Sábado
+117,5/13/2020 19:32,5/13/2020 19:32,5/13/2020 20:05,Caminata,HIGH ,33,Google Maps,3,Miércoles
+118,5/16/2020 19:32,5/16/2020 19:32,5/16/2020 19:54,Caminata,HIGH ,22,Google Maps,6,Sábado
+119,5/16/2020 20:00,5/16/2020 20:00,5/16/2020 20:23,Caminata,HIGH ,23,Google Maps,6,Sábado
+120,5/17/2020 19:05,5/17/2020 19:05,5/17/2020 19:52,Caminata,HIGH ,47,Google Maps,7,Domingo
+121,5/19/2020 23:33,5/19/2020 23:33,5/19/2020 23:48,Caminata,HIGH ,15,Google Maps,2,Martes
+122,5/19/2020 23:58,5/19/2020 23:58,5/20/2020 0:13,Caminata,HIGH ,15,Google Maps,2,Martes
+123,5/23/2020 17:58,5/23/2020 17:58,5/23/2020 18:16,Caminata,HIGH ,18,Google Maps,6,Sábado
+124,6/3/2020 22:15,6/3/2020 22:15,6/3/2020 22:49,Caminata,HIGH ,34,Google Maps,3,Miércoles
+125,6/3/2020 23:38,6/3/2020 23:38,6/4/2020 0:01,Caminata,HIGH ,23,Google Maps,3,Miércoles
+126,6/4/2020 0:06,6/4/2020 0:06,6/4/2020 0:25,Caminata,HIGH ,19,Google Maps,4,Jueves
+127,6/10/2020 19:08,6/10/2020 19:08,6/10/2020 19:23,Caminata,HIGH ,15,Google Maps,3,Miércoles
+128,6/10/2020 19:56,6/10/2020 19:56,6/10/2020 20:20,Caminata,HIGH ,24,Google Maps,3,Miércoles
+129,6/14/2020 19:49,6/14/2020 19:49,6/14/2020 20:08,Caminata,HIGH ,19,Google Maps,7,Domingo
+270,6/17/2020 17:29,,,Yoga,MalovaElena,33,YouTube,3,Miércoles
+130,6/20/2020 23:04,6/20/2020 23:04,6/20/2020 23:21,Caminata,HIGH ,17,Google Maps,6,Sábado
+131,6/20/2020 23:31,6/20/2020 23:31,6/20/2020 23:53,Caminata,HIGH ,22,Google Maps,6,Sábado
+271,7/8/2020 17:43,,,Yoga,MalovaElena,67,YouTube,3,Miércoles
+132,7/10/2020 20:00,7/10/2020 20:00,7/10/2020 20:40,Caminata,HIGH ,40,Google Maps,5,Viernes
+272,7/15/2020 18:20,,,Yoga,MalovaElena,59,YouTube,3,Miércoles
+273,7/15/2020 18:24,,,Yoga,MalovaElena,34,YouTube,3,Miércoles
+274,7/22/2020 18:06,,,Yoga,MalovaElena,35,YouTube,3,Miércoles
+275,7/22/2020 18:07,,,Yoga,MalovaElena,30,YouTube,3,Miércoles
+133,7/25/2020 19:36,7/25/2020 19:36,7/25/2020 20:03,Caminata,HIGH ,27,Google Maps,6,Sábado
+134,7/25/2020 20:39,7/25/2020 20:39,7/25/2020 21:05,Caminata,HIGH ,26,Google Maps,6,Sábado
+135,7/31/2020 23:23,7/31/2020 23:23,7/31/2020 23:39,Caminata,HIGH ,16,Google Maps,5,Viernes
+136,8/1/2020 0:18,8/1/2020 0:18,8/1/2020 0:43,Caminata,HIGH ,25,Google Maps,6,Sábado
+137,8/4/2020 19:14,8/4/2020 19:14,8/4/2020 19:29,Caminata,HIGH ,15,Google Maps,2,Martes
+276,8/6/2020 18:51,,,Yoga,MalovaElena,14,YouTube,4,Jueves
+138,8/8/2020 17:12,8/8/2020 17:12,8/8/2020 17:48,Caminata,HIGH ,36,Google Maps,6,Sábado
+277,8/8/2020 19:28,,,Yoga,MalovaElena,12,YouTube,6,Sábado
+278,8/8/2020 19:30,,,Yoga,MalovaElena,36,YouTube,6,Sábado
+279,8/9/2020 9:34,,,Yoga,MalovaElena,32,YouTube,7,Domingo
+139,8/15/2020 0:25,8/15/2020 0:25,8/15/2020 0:51,Caminata,HIGH ,26,Google Maps,6,Sábado
+140,8/15/2020 18:37,8/15/2020 18:37,8/15/2020 18:53,Caminata,HIGH ,16,Google Maps,6,Sábado
+141,8/15/2020 19:11,8/15/2020 19:11,8/15/2020 19:27,Caminata,HIGH ,16,Google Maps,6,Sábado
+142,8/16/2020 22:36,8/16/2020 22:36,8/17/2020 0:44,Caminata,HIGH CONFIRMED,128,Google Maps,7,Domingo
+143,8/17/2020 2:02,8/17/2020 2:02,8/17/2020 2:52,Caminata,HIGH ,50,Google Maps,1,Lunes
+280,8/21/2020 18:07,,,Yoga,MalovaElena,32,YouTube,5,Viernes
+144,8/23/2020 18:06,8/23/2020 18:06,8/23/2020 18:25,Caminata,HIGH ,19,Google Maps,7,Domingo
+145,8/27/2020 23:40,8/27/2020 23:40,8/28/2020 0:13,Caminata,HIGH ,33,Google Maps,4,Jueves
+146,9/6/2020 17:00,9/6/2020 17:00,9/6/2020 17:22,Caminata,HIGH ,22,Google Maps,7,Domingo
+147,9/11/2020 23:23,9/11/2020 23:23,9/11/2020 23:43,Caminata,HIGH ,20,Google Maps,5,Viernes
+148,9/11/2020 23:57,9/11/2020 23:57,9/12/2020 0:15,Caminata,HIGH ,18,Google Maps,5,Viernes
+149,9/19/2020 1:00,9/19/2020 1:00,9/19/2020 3:09,Caminata,HIGH CONFIRMED,129,Google Maps,6,Sábado
+150,9/24/2020 0:21,9/24/2020 0:21,9/24/2020 0:36,Caminata,HIGH ,15,Google Maps,4,Jueves
+151,9/24/2020 1:30,9/24/2020 1:30,9/24/2020 1:58,Caminata,HIGH ,28,Google Maps,4,Jueves
+152,9/30/2020 23:48,9/30/2020 23:48,10/1/2020 0:12,Caminata,HIGH ,24,Google Maps,3,Miércoles
+153,10/8/2020 23:51,10/8/2020 23:51,10/9/2020 0:17,Caminata,HIGH ,26,Google Maps,4,Jueves
+154,10/11/2020 1:34,10/11/2020 1:34,10/11/2020 1:52,Caminata,HIGH ,18,Google Maps,7,Domingo
+155,10/11/2020 16:48,10/11/2020 16:48,10/11/2020 17:15,Caminata,HIGH ,27,Google Maps,7,Domingo
+156,10/11/2020 17:21,10/11/2020 17:21,10/11/2020 18:26,Caminata,HIGH CONFIRMED,65,Google Maps,7,Domingo
+157,10/11/2020 18:38,10/11/2020 18:38,10/11/2020 19:28,Caminata,HIGH CONFIRMED,50,Google Maps,7,Domingo
+158,10/11/2020 19:30,10/11/2020 19:30,10/11/2020 21:16,Caminata,HIGH CONFIRMED,106,Google Maps,7,Domingo
+159,10/17/2020 0:55,10/17/2020 0:55,10/17/2020 1:49,Caminata,HIGH ,54,Google Maps,6,Sábado
+160,10/17/2020 17:50,10/17/2020 17:50,10/17/2020 18:18,Caminata,HIGH ,28,Google Maps,6,Sábado
+161,10/19/2020 1:08,10/19/2020 1:08,10/19/2020 1:24,Caminata,HIGH ,16,Google Maps,1,Lunes
+162,10/30/2020 23:32,10/30/2020 23:32,10/30/2020 23:49,Caminata,HIGH ,17,Google Maps,5,Viernes
+163,10/31/2020 0:17,10/31/2020 0:17,10/31/2020 1:50,Caminata,HIGH ,93,Google Maps,6,Sábado
+164,10/31/2020 22:25,10/31/2020 22:25,10/31/2020 22:43,Caminata,HIGH ,18,Google Maps,6,Sábado
+165,11/4/2020 17:17,11/4/2020 17:17,11/4/2020 17:48,Caminata,HIGH ,31,Google Maps,3,Miércoles
+166,11/12/2020 1:28,11/12/2020 1:28,11/12/2020 2:23,Caminata,HIGH ,55,Google Maps,4,Jueves
+167,11/14/2020 0:23,11/14/2020 0:23,11/14/2020 0:44,Caminata,HIGH ,21,Google Maps,6,Sábado
+168,11/15/2020 17:43,11/15/2020 17:43,11/15/2020 18:35,Bicicleta,HIGH CONFIRMED,52,Google Maps,7,Domingo
+169,11/15/2020 18:59,11/15/2020 18:59,11/15/2020 19:36,Bicicleta,HIGH ,37,Google Maps,7,Domingo
+170,11/15/2020 21:46,11/15/2020 21:46,11/15/2020 22:09,Bicicleta,HIGH ,23,Google Maps,7,Domingo
+171,11/15/2020 23:15,11/15/2020 23:15,11/15/2020 23:46,Bicicleta,HIGH ,31,Google Maps,7,Domingo
+172,11/18/2020 0:58,11/18/2020 0:58,11/18/2020 1:33,Caminata,HIGH ,35,Google Maps,3,Miércoles
+173,11/19/2020 0:49,11/19/2020 0:49,11/19/2020 1:08,Caminata,HIGH ,19,Google Maps,4,Jueves
+174,11/22/2020 1:57,11/22/2020 1:57,11/22/2020 2:18,Caminata,HIGH ,21,Google Maps,7,Domingo
+175,11/23/2020 23:44,11/23/2020 23:44,11/24/2020 0:12,Caminata,HIGH ,28,Google Maps,1,Lunes
+104,11/24/2020 7:33,11/24/2020 7:33,,Yoga,Flow rápido,12,DogDown App,2,Martes
+103,11/25/2020 7:48,11/25/2020 7:48,,Yoga,Flow rápido,12,DogDown App,3,Miércoles
+176,11/25/2020 18:01,11/25/2020 18:01,11/25/2020 18:17,Caminata,HIGH ,16,Google Maps,3,Miércoles
+177,11/26/2020 0:48,11/26/2020 0:48,11/26/2020 1:06,Caminata,HIGH ,18,Google Maps,4,Jueves
+178,11/26/2020 6:23,11/26/2020 6:23,11/26/2020 6:38,Caminata,HIGH ,15,Google Maps,4,Jueves
+102,11/26/2020 7:42,11/26/2020 7:42,,Yoga,Flow rápido,10,DogDown App,4,Jueves
+101,11/27/2020 7:36,11/27/2020 7:36,,Yoga,Flow rápido Fuerza Centro,12,DogDown App,5,Viernes
+179,11/29/2020 23:13,11/29/2020 23:13,11/29/2020 23:34,Caminata,HIGH ,21,Google Maps,7,Domingo
+100,11/30/2020 7:35,11/30/2020 7:35,,Workout,,12,DogDown App,1,Lunes
+180,12/1/2020 0:59,12/1/2020 0:59,12/1/2020 1:46,Caminata,HIGH ,47,Google Maps,2,Martes
+181,12/1/2020 2:00,12/1/2020 2:00,12/1/2020 2:16,Caminata,HIGH ,16,Google Maps,2,Martes
+99,12/1/2020 7:53,12/1/2020 7:53,,Workout,,12,DogDown App,2,Martes
+98,12/2/2020 7:54,12/2/2020 7:54,,Workout,,12,DogDown App,3,Miércoles
+97,12/3/2020 7:49,12/3/2020 7:49,,Workout,,12,DogDown App,4,Jueves
+96,12/4/2020 7:48,12/4/2020 7:48,,Workout,,12,DogDown App,5,Viernes
+182,12/7/2020 1:36,12/7/2020 1:36,12/7/2020 2:06,Caminata,HIGH CONFIRMED,30,Google Maps,1,Lunes
+95,12/9/2020 7:47,12/9/2020 7:47,,Workout,,12,DogDown App,3,Miércoles
+94,12/10/2020 7:38,12/10/2020 7:38,,Workout,,12,DogDown App,4,Jueves
+93,12/11/2020 7:35,12/11/2020 7:35,,Yoga,Yoga Restaurativo,15,DogDown App,5,Viernes
+92,12/14/2020 7:35,12/14/2020 7:35,,Workout,,12,DogDown App,1,Lunes
+183,12/14/2020 23:51,12/14/2020 23:51,12/15/2020 0:24,Caminata,HIGH ,33,Google Maps,1,Lunes
+91,12/15/2020 7:36,12/15/2020 7:36,,Workout,,12,DogDown App,2,Martes
+184,12/16/2020 0:23,12/16/2020 0:23,12/16/2020 0:54,Caminata,HIGH ,31,Google Maps,3,Miércoles
+90,12/16/2020 7:35,12/16/2020 7:35,,Workout,,12,DogDown App,3,Miércoles
+89,12/17/2020 7:53,12/17/2020 7:53,,Workout,,12,DogDown App,4,Jueves
+185,12/18/2020 1:27,12/18/2020 1:27,12/18/2020 2:07,Caminata,HIGH CONFIRMED,40,Google Maps,5,Viernes
+88,12/18/2020 7:52,12/18/2020 7:52,,Workout,,10,DogDown App,5,Viernes
+186,12/19/2020 2:56,12/19/2020 2:56,12/19/2020 3:16,Caminata,HIGH ,20,Google Maps,6,Sábado
+187,12/19/2020 22:18,12/19/2020 22:18,12/19/2020 22:44,Caminata,HIGH ,26,Google Maps,6,Sábado
+188,12/22/2020 0:24,12/22/2020 0:24,12/22/2020 0:42,Caminata,HIGH ,18,Google Maps,2,Martes
+87,12/22/2020 7:48,12/22/2020 7:48,,Yoga,Sin calentamiento,15,DogDown App,2,Martes
+86,12/23/2020 7:47,12/23/2020 7:47,,Yoga,Sin calentamiento,15,DogDown App,3,Miércoles
+189,12/23/2020 19:16,12/23/2020 19:16,12/23/2020 20:01,Caminata,HIGH ,45,Google Maps,3,Miércoles
+190,12/26/2020 21:23,12/26/2020 21:23,12/26/2020 21:39,Caminata,HIGH ,16,Google Maps,6,Sábado
+191,12/27/2020 19:14,12/27/2020 19:14,12/27/2020 19:29,Caminata,HIGH ,15,Google Maps,7,Domingo
+192,12/27/2020 21:55,12/27/2020 21:55,12/27/2020 22:12,Caminata,HIGH ,17,Google Maps,7,Domingo
+193,12/29/2020 5:31,12/29/2020 5:31,12/29/2020 5:47,Caminata,HIGH ,16,Google Maps,2,Martes
+194,12/29/2020 17:22,12/29/2020 17:22,12/29/2020 17:41,Bicicleta,HIGH ,19,Google Maps,2,Martes
+195,12/29/2020 17:57,12/29/2020 17:57,12/29/2020 18:23,Bicicleta,HIGH ,26,Google Maps,2,Martes
+196,12/29/2020 18:39,12/29/2020 18:39,12/29/2020 19:24,Bicicleta,HIGH ,45,Google Maps,2,Martes
+197,12/29/2020 20:07,12/29/2020 20:07,12/29/2020 20:45,Bicicleta,HIGH ,38,Google Maps,2,Martes
+198,1/2/2021 0:44,1/2/2021 0:44,1/2/2021 1:03,Caminata,HIGH ,19,Google Maps,6,Sábado
+85,1/4/2021 7:35,1/4/2021 7:35,,Workout,,12,DogDown App,1,Lunes
+84,1/5/2021 7:35,1/5/2021 7:35,,Workout,,12,DogDown App,2,Martes
+281,1/5/2021 19:17,,,Yoga,MalovaElena,52,YouTube,2,Martes
+83,1/6/2021 7:35,1/6/2021 7:35,,Workout,,12,DogDown App,3,Miércoles
+82,1/7/2021 7:39,1/7/2021 7:39,,Workout,,12,DogDown App,4,Jueves
+199,1/8/2021 0:55,1/8/2021 0:55,1/8/2021 1:28,Caminata,HIGH ,33,Google Maps,5,Viernes
+81,1/8/2021 7:33,1/8/2021 7:33,,Workout,,10,DogDown App,5,Viernes
+80,1/11/2021 7:35,1/11/2021 7:35,,Workout,,15,DogDown App,1,Lunes
+282,1/11/2021 8:53,,,Yoga,MalovaElena,11,YouTube,1,Lunes
+200,1/12/2021 0:09,1/12/2021 0:09,1/12/2021 0:48,Caminata,HIGH ,39,Google Maps,2,Martes
+79,1/12/2021 7:36,1/12/2021 7:36,,Workout,,15,DogDown App,2,Martes
+201,1/13/2021 0:47,1/13/2021 0:47,1/13/2021 1:25,Caminata,HIGH CONFIRMED,38,Google Maps,3,Miércoles
+78,1/13/2021 7:51,1/13/2021 7:51,,Workout,,15,DogDown App,3,Miércoles
+202,1/14/2021 0:28,1/14/2021 0:28,1/14/2021 1:00,Caminata,HIGH ,32,Google Maps,4,Jueves
+77,1/14/2021 7:50,1/14/2021 7:50,,Workout,,10,DogDown App,4,Jueves
+76,1/15/2021 7:52,1/15/2021 7:52,,Workout,,12,DogDown App,5,Viernes
+203,1/16/2021 2:21,1/16/2021 2:21,1/16/2021 2:52,Caminata,HIGH ,31,Google Maps,6,Sábado
+75,1/18/2021 7:45,1/18/2021 7:45,,Workout,,15,DogDown App,1,Lunes
+74,1/19/2021 7:47,1/19/2021 7:47,,Workout,,15,DogDown App,2,Martes
+204,1/20/2021 0:56,1/20/2021 0:56,1/20/2021 1:40,Caminata,HIGH ,44,Google Maps,3,Miércoles
+73,1/20/2021 7:37,1/20/2021 7:37,,Workout,,15,DogDown App,3,Miércoles
+72,1/21/2021 7:38,1/21/2021 7:38,,Workout,,12,DogDown App,4,Jueves
+205,1/21/2021 23:56,1/21/2021 23:56,1/22/2021 0:31,Caminata,HIGH ,35,Google Maps,4,Jueves
+71,1/22/2021 7:35,1/22/2021 7:35,,Workout,,15,DogDown App,5,Viernes
+206,1/23/2021 1:24,1/23/2021 1:24,1/23/2021 1:56,Caminata,HIGH ,32,Google Maps,6,Sábado
+70,1/25/2021 7:36,1/25/2021 7:36,,Workout,,15,DogDown App,1,Lunes
+207,1/26/2021 1:31,1/26/2021 1:31,1/26/2021 2:07,Caminata,HIGH CONFIRMED,36,Google Maps,2,Martes
+69,1/26/2021 7:35,1/26/2021 7:35,,Workout,,15,DogDown App,2,Martes
+68,1/27/2021 7:34,1/27/2021 7:34,,Workout,,15,DogDown App,3,Miércoles
+67,1/28/2021 7:42,1/28/2021 7:42,,Workout,,15,DogDown App,4,Jueves
+66,1/29/2021 7:47,1/29/2021 7:47,,Yoga,Sin calentamiento,12,DogDown App,5,Viernes
+208,1/30/2021 1:29,1/30/2021 1:29,1/30/2021 2:11,Caminata,HIGH ,42,Google Maps,6,Sábado
+65,2/1/2021 7:35,2/1/2021 7:35,,Workout,,15,DogDown App,1,Lunes
+209,2/2/2021 0:28,2/2/2021 0:28,2/2/2021 1:09,Caminata,HIGH ,41,Google Maps,2,Martes
+64,2/2/2021 7:35,2/2/2021 7:35,,Workout,,15,DogDown App,2,Martes
+63,2/4/2021 7:33,2/4/2021 7:33,,Workout,,15,DogDown App,4,Jueves
+62,2/5/2021 7:39,2/5/2021 7:39,,Workout,,12,DogDown App,5,Viernes
+210,2/6/2021 0:49,2/6/2021 0:49,2/6/2021 1:28,Caminata,HIGH ,39,Google Maps,6,Sábado
+211,2/7/2021 22:36,2/7/2021 22:36,2/7/2021 22:51,Caminata,HIGH CONFIRMED,15,Google Maps,7,Domingo
+212,2/8/2021 0:49,2/8/2021 0:49,2/8/2021 1:14,Caminata,HIGH ,25,Google Maps,1,Lunes
+61,2/8/2021 7:37,2/8/2021 7:37,,Workout,,15,DogDown App,1,Lunes
+283,2/8/2021 18:30,,,Yoga,MalovaElena,41,YouTube,1,Lunes
+60,2/9/2021 7:36,2/9/2021 7:36,,Workout,,15,DogDown App,2,Martes
+213,2/10/2021 0:16,2/10/2021 0:16,2/10/2021 1:05,Caminata,HIGH ,49,Google Maps,3,Miércoles
+59,2/10/2021 7:35,2/10/2021 7:35,,Workout,,15,DogDown App,3,Miércoles
+214,2/11/2021 1:20,2/11/2021 1:20,2/11/2021 1:38,Caminata,HIGH ,18,Google Maps,4,Jueves
+58,2/11/2021 7:35,2/11/2021 7:35,,Workout,,15,DogDown App,4,Jueves
+57,2/12/2021 7:35,2/12/2021 7:35,,Workout,,12,DogDown App,5,Viernes
+215,2/13/2021 1:18,2/13/2021 1:18,2/13/2021 1:51,Caminata,HIGH ,33,Google Maps,6,Sábado
+216,2/13/2021 19:27,2/13/2021 19:27,2/13/2021 21:25,Caminata,HIGH ,118,Google Maps,6,Sábado
+217,2/16/2021 0:25,2/16/2021 0:25,2/16/2021 0:44,Caminata,HIGH ,19,Google Maps,2,Martes
+56,2/17/2021 7:38,2/17/2021 7:38,,Workout,,15,DogDown App,3,Miércoles
+55,2/18/2021 7:36,2/18/2021 7:36,,Workout,,15,DogDown App,4,Jueves
+54,2/19/2021 7:35,2/19/2021 7:35,,Workout,,15,DogDown App,5,Viernes
+218,2/20/2021 2:15,2/20/2021 2:15,2/20/2021 2:33,Caminata,HIGH ,18,Google Maps,6,Sábado
+53,2/22/2021 7:55,2/22/2021 7:55,,Workout,,15,DogDown App,1,Lunes
+52,2/23/2021 7:49,2/23/2021 7:49,,Workout,,15,DogDown App,2,Martes
+51,2/24/2021 7:47,2/24/2021 7:47,,Workout,,15,DogDown App,3,Miércoles
+50,2/25/2021 7:45,2/25/2021 7:45,,Workout,,12,DogDown App,4,Jueves
+219,2/26/2021 1:15,2/26/2021 1:15,2/26/2021 1:41,Caminata,HIGH ,26,Google Maps,5,Viernes
+220,2/28/2021 21:21,2/28/2021 21:21,2/28/2021 23:25,Caminata,HIGH ,124,Google Maps,7,Domingo
+221,3/4/2021 1:32,3/4/2021 1:32,3/4/2021 1:52,Caminata,HIGH ,20,Google Maps,4,Jueves
+222,3/5/2021 4:56,3/5/2021 4:56,3/5/2021 5:11,Caminata,HIGH ,15,Google Maps,5,Viernes
+223,3/9/2021 19:12,3/9/2021 19:12,3/9/2021 19:46,Caminata,HIGH ,34,Google Maps,2,Martes
+224,3/10/2021 18:32,3/10/2021 18:32,3/10/2021 20:08,Caminata,HIGH ,96,Google Maps,3,Miércoles
+225,3/10/2021 20:48,3/10/2021 20:48,3/10/2021 21:26,Caminata,HIGH ,38,Google Maps,3,Miércoles
+226,3/11/2021 18:56,3/11/2021 18:56,3/11/2021 19:26,Caminata,HIGH ,30,Google Maps,4,Jueves
+227,3/11/2021 21:22,3/11/2021 21:22,3/11/2021 23:11,Caminata,HIGH ,109,Google Maps,4,Jueves
+49,3/15/2021 7:39,3/15/2021 7:39,,Workout,,12,DogDown App,1,Lunes
+228,3/19/2021 0:21,3/19/2021 0:21,3/19/2021 1:08,Caminata,HIGH ,47,Google Maps,5,Viernes
+229,3/21/2021 1:33,3/21/2021 1:33,3/21/2021 2:07,Caminata,HIGH ,34,Google Maps,7,Domingo
+230,3/21/2021 3:53,3/21/2021 3:53,3/21/2021 4:11,Caminata,HIGH ,18,Google Maps,7,Domingo
+231,3/22/2021 23:37,3/22/2021 23:37,3/22/2021 23:58,Caminata,HIGH ,21,Google Maps,1,Lunes
+232,3/24/2021 0:22,3/24/2021 0:22,3/24/2021 1:06,Caminata,HIGH ,44,Google Maps,3,Miércoles
+233,3/24/2021 14:35,3/24/2021 14:35,3/24/2021 15:15,Caminata,HIGH ,40,Google Maps,3,Miércoles
+234,3/24/2021 15:37,3/24/2021 15:37,3/24/2021 15:59,Caminata,HIGH ,22,Google Maps,3,Miércoles
+48,3/25/2021 7:38,3/25/2021 7:38,,Workout,,12,DogDown App,4,Jueves
+47,3/26/2021 18:55,3/26/2021 18:55,,Workout,,30,DogDown App,5,Viernes
+46,3/29/2021 7:35,3/29/2021 7:35,,Workout,,12,DogDown App,1,Lunes
+45,3/31/2021 7:38,3/31/2021 7:38,,Workout,,12,DogDown App,3,Miércoles
+235,4/1/2021 16:01,4/1/2021 16:01,4/1/2021 16:16,Caminata,HIGH ,15,Google Maps,4,Jueves
+236,4/3/2021 0:33,4/3/2021 0:33,4/3/2021 1:03,Caminata,HIGH ,30,Google Maps,6,Sábado
+44,4/5/2021 7:36,4/5/2021 7:36,,Workout,,15,DogDown App,1,Lunes
+237,4/5/2021 23:28,4/5/2021 23:28,4/6/2021 0:11,Caminata,HIGH ,43,Google Maps,1,Lunes
+43,4/6/2021 7:35,4/6/2021 7:35,,Workout,,15,DogDown App,2,Martes
+42,4/7/2021 7:35,4/7/2021 7:35,,Workout,,15,DogDown App,3,Miércoles
+41,4/8/2021 7:35,4/8/2021 7:35,,Workout,,15,DogDown App,4,Jueves
+40,4/9/2021 7:35,4/9/2021 7:35,,Workout,,15,DogDown App,5,Viernes
+238,4/10/2021 21:10,4/10/2021 21:10,4/10/2021 21:28,Caminata,HIGH ,18,Google Maps,6,Sábado
+39,4/12/2021 7:35,4/12/2021 7:35,,Workout,,15,DogDown App,1,Lunes
+38,4/13/2021 7:35,4/13/2021 7:35,,Workout,,12,DogDown App,2,Martes
+37,4/14/2021 7:35,4/14/2021 7:35,,Workout,,15,DogDown App,3,Miércoles
+239,4/15/2021 0:00,4/15/2021 0:00,4/15/2021 0:42,Caminata,HIGH ,42,Google Maps,4,Jueves
+294,4/15/2021 17:47,,,Running,1.2 Km,10,AdidasRunstatistic,4,Jueves
+36,4/16/2021 7:35,4/16/2021 7:35,,Workout,,15,DogDown App,5,Viernes
+35,4/19/2021 7:33,4/19/2021 7:33,,Workout,,15,DogDown App,1,Lunes
+34,4/20/2021 7:56,4/20/2021 7:56,,Workout,,15,DogDown App,2,Martes
+293,4/20/2021 18:33,,,Running,3.3 Km,26,AdidasRunstatistic,2,Martes
+33,4/21/2021 7:51,4/21/2021 7:51,,Workout,,15,DogDown App,3,Miércoles
+32,4/22/2021 7:52,4/22/2021 7:52,,Yoga,Hot 26,15,DogDown App,4,Jueves
+292,4/22/2021 17:26,,,Running,2.8 Km,21,AdidasRunstatistic,4,Jueves
+31,4/23/2021 7:30,4/23/2021 7:30,,Workout,,15,DogDown App,5,Viernes
+30,4/26/2021 7:38,4/26/2021 7:38,,Workout,,15,DogDown App,1,Lunes
+29,4/27/2021 7:36,4/27/2021 7:36,,Workout,,15,DogDown App,2,Martes
+291,4/27/2021 18:45,,,Running,3 Km,23,AdidasRunstatistic,2,Martes
+28,4/28/2021 7:35,4/28/2021 7:35,,Yoga,Hot 26,20,DogDown App,3,Miércoles
+27,4/30/2021 7:30,4/30/2021 7:30,,Workout,,15,DogDown App,5,Viernes
+290,4/30/2021 18:40,,,Running,2.9 Km,23,AdidasRunstatistic,5,Viernes
+240,5/1/2021 23:04,5/1/2021 23:04,5/1/2021 23:32,Caminata,HIGH ,28,Google Maps,6,Sábado
+241,5/2/2021 17:53,5/2/2021 17:53,5/2/2021 18:16,Caminata,HIGH ,23,Google Maps,7,Domingo
+242,5/2/2021 18:24,5/2/2021 18:24,5/2/2021 18:50,Caminata,HIGH ,26,Google Maps,7,Domingo
+284,5/3/2021 7:41,,,Yoga,MalovaElena,16,YouTube,1,Lunes
+26,5/4/2021 7:37,5/4/2021 7:37,,Workout,,10,DogDown App,2,Martes
+25,5/5/2021 7:35,5/5/2021 7:35,,Workout,,10,DogDown App,3,Miércoles
+24,5/6/2021 7:42,5/6/2021 7:42,,Workout,,15,DogDown App,4,Jueves
+295,5/6/2021 18:28,,,Running,1.1 Km,10,AdidasRunstatistic,4,Jueves
+243,5/7/2021 0:04,5/7/2021 0:04,5/7/2021 0:48,Caminata,HIGH ,44,Google Maps,5,Viernes
+244,5/8/2021 16:41,5/8/2021 16:41,5/8/2021 17:16,Caminata,HIGH ,35,Google Maps,6,Sábado
+23,5/10/2021 7:49,5/10/2021 7:49,,Workout,,15,DogDown App,1,Lunes
+22,5/11/2021 7:52,5/11/2021 7:52,,Workout,,15,DogDown App,2,Martes
+21,5/12/2021 7:50,5/12/2021 7:50,,Workout,,15,DogDown App,3,Miércoles
+20,5/13/2021 7:48,5/13/2021 7:48,,Yoga,Hot 26,10,DogDown App,4,Jueves
+296,5/13/2021 18:03,,,Running,3.8 Km,29,AdidasRunstatistic,4,Jueves
+19,5/14/2021 7:45,5/14/2021 7:45,,Yoga,Hot 26,10,DogDown App,5,Viernes
+297,5/14/2021 18:17,,,Running,3 Km,26,AdidasRunstatistic,5,Viernes
+245,5/15/2021 16:20,5/15/2021 16:20,5/15/2021 16:46,Caminata,HIGH ,26,Google Maps,6,Sábado
+246,5/15/2021 18:46,5/15/2021 18:46,5/15/2021 19:26,Caminata,HIGH ,40,Google Maps,6,Sábado
+18,5/17/2021 7:30,5/17/2021 7:30,,Workout,,15,DogDown App,1,Lunes
+17,5/18/2021 7:37,5/18/2021 7:37,,Workout,,15,DogDown App,2,Martes
+285,5/19/2021 7:43,,,Yoga,MalovaElena,14,YouTube,3,Miércoles
+16,5/20/2021 7:38,5/20/2021 7:38,,Workout,,15,DogDown App,4,Jueves
+298,5/20/2021 18:25,,,Running,3 Km,26,AdidasRunstatistic,4,Jueves
+15,5/21/2021 7:35,5/21/2021 7:35,,Yoga,Hot 26,15,DogDown App,5,Viernes
+14,5/26/2021 7:35,5/26/2021 7:35,,Workout,,15,DogDown App,3,Miércoles
+13,5/27/2021 7:35,5/27/2021 7:35,,Yoga,Hot 26,15,DogDown App,4,Jueves
+286,5/28/2021 7:44,,,Yoga,MalovaElena,15,YouTube,5,Viernes
+299,5/28/2021 17:47,,,Running,2.3 Km,17,AdidasRunstatistic,5,Viernes
+12,5/31/2021 7:43,5/31/2021 7:43,,Workout,,10,DogDown App,1,Lunes
+247,5/31/2021 22:36,5/31/2021 22:36,5/31/2021 23:09,Caminata,HIGH ,33,Google Maps,1,Lunes
+11,6/2/2021 7:42,6/2/2021 7:42,,Workout,,15,DogDown App,3,Miércoles
+300,6/2/2021 17:59,,,Running,3.7 Km,26,AdidasRunstatistic,3,Miércoles
+10,6/3/2021 7:57,6/3/2021 7:57,,Workout,,12,DogDown App,4,Jueves
+9,6/4/2021 7:30,6/4/2021 7:30,,Workout,,15,DogDown App,5,Viernes
+248,6/5/2021 20:24,6/5/2021 20:24,6/5/2021 20:42,Caminata,HIGH ,18,Google Maps,6,Sábado
+8,6/7/2021 7:35,6/7/2021 7:35,,Workout,,12,DogDown App,1,Lunes
+7,6/8/2021 7:45,6/8/2021 7:45,,Workout,,15,DogDown App,2,Martes
+6,6/10/2021 7:40,6/10/2021 7:40,,Yoga,Hot 26,15,DogDown App,4,Jueves
+249,6/10/2021 23:49,6/10/2021 23:49,6/11/2021 0:24,Caminata,HIGH ,35,Google Maps,4,Jueves
+5,6/15/2021 7:30,6/15/2021 7:30,,Yoga,Ashtanga,15,DogDown App,2,Martes
+4,6/16/2021 7:36,6/16/2021 7:36,,Workout,,15,DogDown App,3,Miércoles
+3,6/18/2021 7:35,6/18/2021 7:35,,Workout,,15,DogDown App,5,Viernes
+250,6/19/2021 22:14,6/19/2021 22:14,6/19/2021 22:31,Caminata,HIGH ,17,Google Maps,6,Sábado
+287,6/20/2021 12:13,,,Yoga,MalovaElena,28,YouTube,7,Domingo
+251,6/20/2021 20:29,6/20/2021 20:29,6/20/2021 20:46,Caminata,HIGH ,17,Google Maps,7,Domingo
+252,6/20/2021 20:55,6/20/2021 20:55,6/20/2021 21:11,Caminata,HIGH ,16,Google Maps,7,Domingo
+253,6/20/2021 21:27,6/20/2021 21:27,6/20/2021 22:04,Caminata,HIGH ,37,Google Maps,7,Domingo
+2,6/22/2021 7:35,6/22/2021 7:35,,Workout,,15,DogDown App,2,Martes
+288,6/23/2021 7:51,,,Yoga,MalovaElena,16,YouTube,3,Miércoles
+254,6/26/2021 1:09,6/26/2021 1:09,6/26/2021 1:44,Caminata,HIGH ,35,Google Maps,6,Sábado
+255,6/26/2021 3:09,6/26/2021 3:09,6/26/2021 3:34,Caminata,HIGH ,25,Google Maps,6,Sábado
+1,6/28/2021 7:35,6/28/2021 7:35,,Workout,,15,DogDown App,1,Lunes
+289,7/1/2021 8:00,,,Yoga,MalovaElena,16,YouTube,4,Jueves
+306,7/5/2021 7:55,,,Workout,,10,DogDown App,1,Lunes
+305,7/6/2021 7:56,,,Workout,,12,DogDown App,2,Martes
+,7/6/2021 21:17,7/6/2021 21:17,7/6/2021 21:41,Caminata,HIGH ,24,Google Maps,2,Martes
+256,7/7/2021 0:17,7/7/2021 0:17,7/7/2021 0:41,Caminata,HIGH ,24,Google Maps,3,Miércoles
+304,7/7/2021 7:42,,,Workout,,12,DogDown App,3,Miércoles
+,7/7/2021 21:10,7/7/2021 21:10,7/7/2021 21:53,Caminata,HIGH ,43,Google Maps,3,Miércoles
+257,7/8/2021 0:10,7/8/2021 0:10,7/8/2021 0:53,Caminata,HIGH ,43,Google Maps,4,Jueves
+258,7/10/2021 16:56,7/10/2021 11:56,7/10/2021 18:13,Bicicleta,,370,AdidasRunstatistic,6,Sábado
+303,7/12/2021 7:42,,,Workout,,15,DogDown App,1,Lunes
+301,7/14/2021 20:00,,,Yoga,MalovaElena,37,YouTube,3,Miércoles
+302,7/16/2021 7:33,,,Yoga,Sin calentamiento,12,DogDown App,5,Viernes
